@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T13:59:08.713Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="x_m2hdnLQAcvzcp23SxQ" version="24.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T14:00:54.238Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="BRDMknW_v475D1Pz9TVA" version="24.5.1" type="github">
   <diagram name="Страница — 1" id="Dpuki5L0oCUDnsn73w94">
     <mxGraphModel dx="2261" dy="746" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="1nzkd900IhLxRj3OGaUo-51" value=" &amp;lt;&amp;lt;utility functions&amp;gt;&amp;gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="700" width="280" height="290" as="geometry" />
+          <mxGeometry x="420" y="640" width="280" height="290" as="geometry" />
         </mxCell>
         <mxCell id="1nzkd900IhLxRj3OGaUo-52" value=" + input_error(func)                       |&lt;br/&gt;| + add_contact(args, book: AddressBook)    |&lt;br/&gt;| + change_contact(args, book: AddressBook) |&lt;br/&gt;| + show_phone(args, book: AddressBook)     |&lt;br/&gt;| + show_all_contacts(book: AddressBook)    |&lt;br/&gt;| + add_birthday(args, book: AddressBook)   |&lt;br/&gt;| + show_birthday(args, book: AddressBook)  |&lt;br/&gt;| + birthdays(book: AddressBook)            |&lt;br/&gt;| + hello()                                 |&lt;br/&gt;| + close()                                 |&lt;br/&gt;| + exit()                                  |&lt;br/&gt;| + help_command()                          |&lt;br/&gt;| + parse_input(user_input)                 |&lt;br/&gt;| + save_data(book, filename)               |&lt;br/&gt;| + load_data(filename)                     |&lt;br/&gt;| + view_factory(view_type)                 |&lt;br/&gt;| + main() " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="1nzkd900IhLxRj3OGaUo-51">
           <mxGeometry y="30" width="280" height="260" as="geometry" />
